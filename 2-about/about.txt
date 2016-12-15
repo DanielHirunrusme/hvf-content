@@ -1,0 +1,23 @@
+Title: About
+
+----
+
+Text: 
+
+HVF Labs starts companies with the people that will operate them. ***TEST***
+
+> **HARD** */härd/*.  Harness an exceptional technology.
+> **VALUABLE** */ˈvaly(əw)əb(ə)l/*.  Solve significant problems.
+> **FUN** */fən/*.  Operate with passion to help build the world we want to live in.
+
+Founders join us to play with, think deeply about, and work on hard problems.  HVF creates companies, including Yelp, Affirm, and Glow.
+
+**HARD TECH THAT SOLVES HARD PROBLEMS.**  HVF focuses on technology and data advantages that can solve substantial problems.  We found a company after a compelling technology becomes broadly accessible.
+
+**WORK TOGETHER, ON WHAT CAPTIVATES YOU.**  Our Entrepreneurs in Residence and core team work on proto-ideas of their choosing.  Founding teams are forged by searching and working together.  We draw from HVF's community of founders, friends, and Levchin portfolio companies.
+
+**FOCUS ON 1-2 PROJECTS AT A TIME.**  Your ideas get our complete attention.  Expect strategic advice, deep product and technical contributions, with a team of involved co-founders.
+
+**WITH OUR FOUNDERS FOR THE LONG HAUL.**  We work alongside our Companies in Residence for 12-24 months.  HVF remains deeply involved in the companies we start, and in our alumni.
+
+HVF Labs (formerly MRLV) was started by (link: https://twitter.com/mlevchin text: Max Levchin popup: yes) ((link: https://www.paypal.com/ text: Paypal popup: yes), (link: http://en.wikipedia.org/wiki/Slide.com text: Slide popup: yes), (link: https://www.affirm.com/ text: Affirm popup: tes)) and is operated by (link: https://www.linkedin.com/in/benjun text: Ben Jun popup: yes) ((link: https://en.wikipedia.org/wiki/Cryptography_Research text: Cryptography Research popup: yes), (link: https://www.ideo.com/ text: IDEO popup: yes)).

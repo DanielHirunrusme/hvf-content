@@ -1,0 +1,45 @@
+Title: Interests
+
+----
+
+Interests-1: 
+
+# Real Estate 
+
+## Owning a Home 
+Down payments and monthly mortgage payments reach unsafe levels for many Americans.  We are exploring new, transparent, and fair financing methods for families looking to buy their first home.  
+
+## Real Estate Investing 
+Real estate is part of any stable and diverse investment portfolio.  Yet targeted real estate investments remain inaccessible due to high unit costs.  We're investigating passive investment products that capture growth upside in specific areas.
+
+----
+
+Interests-2: 
+
+# Other Interests
+
+## Spreadsheets and Data Analysis
+
+Spreadsheets are the most accessible form of programming.  As enterprises use data and analysis tools in new ways, we need products that maintain the ease of use of spreadsheets and add the benefits seen in things like Jupyter and other notebook programming tools 
+
+In addition, looking at and reviewing tabular data on mobile phones remains unsolved. Particularly for spreadsheets with models and multiple tables.  
+
+## Data Exhaust
+
+Modern workflows use and generate copious amounts of data - particularly in healthcare, insurance, finance, and energy sectors.  There is incredible utility in joining siloed datasets to unearth new insights and ask new questions.
+
+----
+
+Interests-3: 
+
+----
+
+Interests-4: 
+
+----
+
+Text: 
+
+#An incomplete list of projects, ideas, and questions we are working on and learning about (updated every few months). 
+
+If you’re working in one of these areas and want to talk, you can reach us at (email: mailto:info@hvflabs.com text: info@hvflabs.com).

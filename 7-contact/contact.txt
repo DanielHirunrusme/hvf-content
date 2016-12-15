@@ -1,0 +1,6 @@
+Title: Contact
+
+----
+
+Text: We don’t respond to every email, 
+but regularly review (email:mailto:info@hvflabs.com, text:info@hvflabs.com).

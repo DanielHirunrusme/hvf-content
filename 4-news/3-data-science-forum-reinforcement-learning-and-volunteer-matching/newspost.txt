@@ -1,0 +1,13 @@
+Title: Data Science Forum: Reinforcement Learning
+
+----
+
+Date: 2016-11-15
+
+----
+
+Richtext: 
+
+Tonight's HVF Data Science Forum welcomes Don Dini, AI and automation advisor to FoodRev.  
+
+Don speaks about how reinforcement learning and planning was applied to optimize matching of FoodRev donors, volunteer drivers, pickup routes, and receiving agencies.  [(link: https://www.youtube.com/watch?v=-W2GJ9aRH0E text: video popup: yes)]

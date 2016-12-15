@@ -1,0 +1,15 @@
+Title: Carbide Launches
+
+----
+
+Date: 2016-08-13
+
+----
+
+Richtext: 
+
+Today, Kevin Kwok and Guillermo Webster launched (link:https://alpha.trycarbide.com/ text:Carbide popup: yes) from HVF Labs. Carbide is an browser-based Javascript programming environment that enables interactive data visualization, in-line (and in-context) data tools, and a code-notebook style environment.
+
+Carbide doesn't distinguish between input and output, using generalized machine learning techniques to run programs backwards.
+
+We're pleased to work with both of these rising seniors at MIT!

@@ -1,0 +1,27 @@
+Title: Company Builder / technologist
+
+----
+
+Date: 2016-12-08
+
+----
+
+Text: 
+
+**Create companies founded on superior technologies.**  Technologists lead in-house experiments to assess new ideas, create proofs-of-concept, and assemble core components used by our candidate companies.  Ideally, you’ll bring the technical and business leadership skills to be the technical co-founder of an HVF company.
+
+Serve as a HVF Labs core team member for a 12-month tour of duty.  Experiment with compelling ideas, learn from exceptional entrepreneurs, and co-found your next company here.  We’re looking for:
+
+* *T-shaped technology leadership.*  Peers consider you a deep expert in your area of expertise (data science, image processing, specialty system components, IoT devices, financial technology, ... ).  You’re a jack-of-all-trades with the contextual knowledge to make things happen, across the entire stack.
+
+* *Industry expertise.*  You've spent at least 5 years working in a significant technical role on a hard technology product for {healthcare, education, food, finance, energy} industries.  You know what it means to ship solid code, deal with dirty data, solve customer problems, create real product, and make a realistic schedule.
+
+* *A tinkering mindset.*  You play with new APIs, tools, sensors, and devices.  We want to know what interests you, how you learn, and what you’ve built.
+
+* *Fast experimentation and iteration*. Learn by solving a problem – create MVP experiments, not book reports. Sharpening HVF’s technology, product, and market intuition involves willingly “throwing away” 80% of what we create.
+
+* *Quality and an architect’s mindset.*  You’ve made significant contributions to shipped product – as evidenced in open source contributions or elsewhere.  You lead others to “build it right the first time”, with passion for architectural considerations, datastructures, message passing, and documentation.  Colleagues respect your code quality, attention to detail, testing harnesses, and project planning skills.
+
+* *Team player.*  You can work well with an interdisciplinary team in unstructured environments.  
+
+HVF Labs is Max Levchin’s company creation laboratory.  This is a full-time position in San Francisco, in an office we share with HVF-created companies.  We offer cash compensation, equity in the companies we start, great health insurance, commuter and gym benefits, and unlimited vacation.

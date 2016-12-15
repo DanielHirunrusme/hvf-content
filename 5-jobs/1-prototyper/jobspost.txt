@@ -1,0 +1,48 @@
+Title: Company Builder / prototyper
+
+----
+
+Date: 2016-11-03
+
+----
+
+Richtext: 
+
+HVF Labs starts and grows transformative businesses. We partner with founders to create these businesses and help them build teams. In order to do this effectively, we focus on a couple projects at a time: searching, building, and learning with a small group of people.
+
+As a member of the core team at HVF Labs, you will create prototypes of web and mobile applications. You will provide input into how a product is designed and architected and you will be responsible for delivering great prototypes with minimal supervision.
+
+At HVF, we work quickly. We emphasize clear, but light specifications, and the value of feedback and getting out of the building in order to learn. We prototype in order to learn more faster and lay the foundations of the businesses we create. You will help lead the charge, helping us turn the most interesting projects into companies.
+
+Some things that will help you be successful:
+
+- Strong product intuition
+- Experienced HTML and CSS skills.
+- Experience with one (or more) of the following:
+- (or something comparable):
+- Javascript
+- Python
+- iOS or Android development
+- History of shipping software products
+
+----
+
+Text: 
+
+**Some build to order, we build to learn.**  Prototyping is a key part of our learning, creativity, and assessment process.  You’ll deliver web apps, mobile apps, and data infrastructures, quickly and with minimal supervision.  
+
+Serve as a HVF Labs core team member for a 12-month tour of duty.  Experiment with compelling ideas, learn from exceptional entrepreneurs, and co-found your next company here.  We’re looking for:
+
+* *Full-stack fluency.*  Your toolkit includes a mix of {Python, Javascript, SQL, iOS/Android, HTML/CSS}.  
+
+* *A tinkering mindset.*  You play with new APIs, tools, sensors, and devices.  We want to know what interests you, how you learn, and what you’ve built.
+
+* *Fast experimentation and iteration.*  Learn by solving a problem – create MVP experiments, not book reports.  Sharpening HVF’s technology, product, and market intuition involves willingly “throwing away” 80% of what we create. 
+
+* *Strong product intuition.*  You’ll work from clear, but lightweight specifications; we emphasize the value of feedback and getting out of the building in order to learn.  You are familiar with product management frameworks, can debate user stories with the best of us, and have worked alongside high-functioning product teams.
+
+* *History of shipping quality software.*  You’ve made significant contributions to shipped product – as evidenced in open source contributions or elsewhere.  
+
+* *Team player.*  You can work well with an interdisciplinary team in unstructured environments.  
+
+HVF Labs is Max Levchin’s company creation laboratory.  This is a full-time position in San Francisco, in an office we share with HVF-created companies.  We offer cash compensation, equity in the companies we start, great health insurance, commuter and gym benefits, and unlimited vacation.
